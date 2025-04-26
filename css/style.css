@@ -1,0 +1,27 @@
+
+
+
+
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0 auto;
+    width: 1000px;
+    border: 1px solid;
+}
+
+.image {
+    margin: 0 auto;
+    width: 300px;
+}
+
+li {
+    list-style: none;
+}
+
+.title {
+    color: rgb(81, 107, 156);
+}
